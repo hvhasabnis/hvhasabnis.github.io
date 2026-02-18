@@ -1,4 +1,4 @@
-# Hrishikesh Hasabnis - Portfolio
+# Hrishikesh Vasant Hasabnis - Portfolio
 
 🚀 **Modern, digital-themed portfolio** showcasing Machine Learning, Computer Vision, and NLP projects.
 
@@ -113,4 +113,4 @@ MIT License - feel free to use this template for your own portfolio!
 
 ---
 
-Made with 💙 and lots of ☕ by Hrishikesh Hasabnis
+Made with 💙 and lots of ☕ by Hrishikesh Vasant Hasabnis
